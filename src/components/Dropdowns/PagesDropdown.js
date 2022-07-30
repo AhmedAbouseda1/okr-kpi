@@ -1,6 +1,6 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import { createPopper } from "@popperjs/core";
+import {Link} from "react-router-dom";
+import {createPopper} from "@popperjs/core";
 
 const PagesDropdown = () => {
   // dropdown props
